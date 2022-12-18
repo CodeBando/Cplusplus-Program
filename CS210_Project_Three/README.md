@@ -1,4 +1,4 @@
-# CS210_Project_Three
+# CS210_Project_Three - Item Tracking System
 ##### Summary of the project:
 This project is a C++ program that utilizes Python as well. Pulling information from a data file, it displays the types of items found in the data file as well as the number of times a single item is in the file. It also allows the user to search for an item type and tells them how many of those items were in the data. 
 ##### What did you do particularly well?
